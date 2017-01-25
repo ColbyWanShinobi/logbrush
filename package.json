@@ -1,0 +1,26 @@
+{
+  "name": "logbrush",
+  "version": "1.0.0",
+  "description": "Convert AWS ELB logs to a format that can be read by logstalgia",
+  "main": "logbrush.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ColbyWanShinobi/logbrush.git"
+  },
+  "keywords": [
+    "log",
+    "logfile",
+    "logstalgia",
+    "aws",
+    "elb"
+  ],
+  "author": "Colby Butler",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ColbyWanShinobi/logbrush/issues"
+  },
+  "homepage": "https://github.com/ColbyWanShinobi/logbrush#readme"
+}
